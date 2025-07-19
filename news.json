@@ -1,0 +1,17 @@
+{
+  "tabs": {
+    "latest": [
+      { "text": "10.02.2025: Старт события!", "url": "https://reasonsru.github.io/event/start" },
+      { "text": "Обновление 1.0.0 доступно", "url": "https://reasonsru.github.io/patch/1.0.0" }
+    ],
+    "notice": [
+      { "text": "Сервер будет недоступен 13.02", "url": "https://reasonsru.github.io/notice/maintenance" }
+    ],
+    "event": [
+      { "text": "Ивент «Грёзы пустыни» начался!", "url": "https://reasonsru.github.io/events/dreams" }
+    ],
+    "news": [
+      { "text": "Акт II истории «Пески Хамунаптры»", "url": "https://reasonsru.github.io/story/act2" }
+    ]
+  }
+}
