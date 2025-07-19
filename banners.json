@@ -1,0 +1,12 @@
+{
+  "banners": [
+    {
+      "image": "https://reasonsru.github.io/reasons-launcher-data/assets/banner_1.jpg",
+      "url": "https://reasonsru.github.io/reasons-launcher-data/event1"
+    },
+    {
+      "image": "https://reasonsru.github.io/reasons-launcher-data/assets/banner_2.jpg",
+      "url": "https://reasonsru.github.io/reasons-launcher-data/event2"
+    }
+  ]
+}
